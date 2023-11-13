@@ -1,11 +1,6 @@
-numpy 
+numpy
 pandas
+plotly
+datetime
 yfinance
 streamlit
-plotly
-datetime 
-PIL
-pandas_datareader
-matplotlib
-tkinter
-seaborn
