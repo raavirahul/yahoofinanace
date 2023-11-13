@@ -2,12 +2,10 @@ numpy
 pandas
 yfinance
 streamlit
-plotly.graph_objects 
-plotly.subplots
+plotly
 datetime 
 PIL
-pandas_datareader.data
-matplotlib.pyplot
-from plotly.offline import iplot, init_notebook_mode
-from tkinter import ttk
+pandas_datareader
+matplotlib
+tkinter
 seaborn
