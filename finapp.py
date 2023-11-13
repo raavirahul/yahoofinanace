@@ -13,18 +13,13 @@ Created on Mon Oct 16 14:16:57 2023
 #==============================================================================
 # Libraries
 import numpy as np
-from PIL import Image
 import pandas as pd
-import pandas_datareader.data as web
-import matplotlib.pyplot as plt
 import plotly.graph_objects as go
 from datetime import datetime, timedelta
-from plotly.offline import iplot, init_notebook_mode
 from plotly.subplots import make_subplots
 import yfinance as yf
 import streamlit as st
-from tkinter import ttk
-import seaborn as sns
+ 
  
 
 #==============================================================================
